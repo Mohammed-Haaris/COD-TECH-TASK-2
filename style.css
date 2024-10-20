@@ -1,0 +1,12 @@
+/** @format */
+
+/* sizing the header */
+.pt-4 {
+  font-weight: 1000;
+  font-size: xx-large;
+}
+
+/* background color for total body */
+body {
+  background-color: #e3f2fd;
+}
