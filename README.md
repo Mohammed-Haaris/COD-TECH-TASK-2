@@ -47,6 +47,6 @@ Some potential future updates I have planned for this project include:
 
 Feel free to connect with me:
 
-- **Email:** [YourEmail@example.com]
-- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/yourprofile)  <!-- Replace with your actual LinkedIn URL -->
-- **Portfolio:** [YourPortfolioWebsite.com](https://yourportfolio.com)  <!-- Replace with your actual portfolio URL -->
+- **Email:** [smhhaaris2020@gmail.com]
+- **LinkedIn:** [LinkedIn Profile](www.linkedin.com/in/mohammedhaaris12)  <!-- Replace with your actual LinkedIn URL -->
+- **Portfolio:** [Mohammed Haaris Portfolio](https://mohammed-haaris.github.io/)  <!-- Replace with your actual portfolio URL -->
